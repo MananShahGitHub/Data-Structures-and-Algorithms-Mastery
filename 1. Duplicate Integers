@@ -28,7 +28,7 @@ class Solution:
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-# using function with less paramters
+# using function with less parameters
 
 class Solution:
     def containsDuplicate(nums):
